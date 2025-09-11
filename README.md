@@ -5,4 +5,4 @@ A comprehensive sales dashboard providing a 360-degree view of a global retailer
 
 
 #### Main Dashboard:
-![PowerBIPreview1](CreditCardFraud-Dashboard-1.png)
+![PowerBIPreview1](GSS_Dashboard.png)
