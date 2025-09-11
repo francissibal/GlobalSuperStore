@@ -72,9 +72,9 @@ The heavy reliance on the Consumer segment and the APAC/LATAM markets represents
 ## Product Performance Analysis
 The product analysis identifies clear winners and losers, providing a direct path to profit optimization.
 
-  * **Top 5 Profitable Products:** The leading product ("Cana...") is a standout performer, generating $25K in profit. These top products are crucial to our bottom line.
+  * **Top 5 Profitable Products:** The leading product ("Canon imageCLASS 2200 Advanced Copier") is a standout performer, generating $25K in profit. These top products are crucial to our bottom line.
   
-  * **Top 5 Loss-Making Products:** These products are a significant drain on profitability. The worst offender ("Cubif...") has a loss of -$8.9K. The total loss from these five products alone is substantial and requires immediate attention.
+  * **Top 5 Loss-Making Products:** These products are a significant drain on profitability. The worst offender ("Cubify CubeX 3D Printer Double Head Print") has a loss of -$8.9K. The total loss from these five products alone is substantial and requires immediate attention.
 
 ## Customer and Forecast Analysis
   * **Top 5 Customers:** A small group of high-value customers (Tom, Tam, Greg, Chris, Sean) contribute significantly to sales. Tom Ashbrook is the top customer, with sales over $40K. This highlights the importance of key account management.
