@@ -16,7 +16,8 @@ Despite strong top-line numbers, the analysis highlights significant opportuniti
 Immediate recommendations are to discontinue or re-evaluate the top loss-making products, launch targeted marketing campaigns in the underperforming US market, and implement a customer loyalty program for the top 5 customers who contribute significantly to sales.
 
 ## Performance Analysis
-
+#### Main Dashboard:
+![PowerBIPreview1](GSS_Dashboard.png)
 ## Overall Financial Health (KPIs)
 The company's key performance indicators are strong, indicating a solid market position:
 
@@ -105,5 +106,4 @@ Based on this analysis, the following actions are recommended:
 
 
 
-#### Main Dashboard:
-![PowerBIPreview1](GSS_Dashboard.png)
+
