@@ -6,7 +6,7 @@ A comprehensive sales dashboard providing a 360-degree view of a global retailer
 
 
 ## Executive Summary
-This report provides a comprehensive analysis of the Global Super Store's performance dashboard, revealing a business with strong overall sales of $12.64M and a healthy profit of $1.47M. The Consumer segment is the primary driver of revenue, accounting for over half of all sales, while the Asia Pacific (APAC) market is our largest regional contributor.
+This report provides a comprehensive analysis of the Global Super Store's performance dashboard, revealing a business with strong overall sales of $12.64M and a profit of $1.47M. The Consumer segment is the primary driver of revenue, accounting for over half of all sales, while the Asia Pacific (APAC) market is our largest regional contributor.
 
 Despite strong top-line numbers, the analysis highlights significant opportunities for profit optimization. Key issues include:
   * **Profit Margin Volatility:** Profit margins fluctuate significantly throughout the year, dropping to lows of around 10%.
